@@ -1,0 +1,12 @@
+PySide6>=6.7.0
+vosk>=0.3.45
+pyttsx3>=2.90
+pyaudio>=0.2.14
+transformers>=4.43.0
+torch>=2.3.0
+accelerate>=0.33.0
+bitsandbytes>=0.43.0
+PyYAML>=6.0
+spotipy>=2.25.1
+diffusers>=0.30.0,<0.40.0
+huggingface-hub>=0.34.0,<1.0

@@ -1,0 +1,9 @@
+__pycache__/
+.vscode/
+dist/
+build/
+ 
+assets/models/qwen2.5\ 3b/*
+assets/models/SD3.5\ medium/*
+assets/vosk/*
+user/*
